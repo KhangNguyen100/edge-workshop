@@ -14,4 +14,4 @@ navigation:
   - title: Resume
     url: assets/files/sample_resume.pdf
   - title: Hi
-  url: hi
+    url: hi
